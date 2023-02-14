@@ -1,0 +1,24 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/stevesdiary/email-with-node.git"
+  },
+  "keywords": [
+    "node",
+    "nodemailer",
+    "email"
+  ],
+  "author": "Stephen Oyeyemi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1"
+  }
+}
